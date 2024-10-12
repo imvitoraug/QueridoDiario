@@ -1,6 +1,6 @@
 package Aula_1;
 
-public class Cachorro {
+public class Cachorro extends Animal {
    //atributos/estado
     String raca;
     String nome;
